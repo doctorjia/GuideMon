@@ -1,0 +1,16 @@
+//场景12-无标识物，高性能的自动跟踪
+algDetectingType = 3
+algTrackingType = 4
+
+///////////////////////////////////////////////////////////////////////////
+//optional
+bUseARKIT = 1
+markerDirection = 0
+bLoadTestData = 0
+bSaveTestData = 0
+defaultDetectCount = 20
+LogVerbose = 1
+groundDistance = 0.3
+//bFirstHittestNeedReset = 1
+videoConfig = -fps:30,-preset:480p,-position:back
+///////////////////////////////////////////////////////////////////////////
